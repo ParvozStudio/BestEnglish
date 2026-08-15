@@ -10,7 +10,7 @@ import os
 # Aks holda pastdagi standart qiymatni ishlatadi.
 BOT_TOKEN = os.environ.get(
     "BOT_TOKEN",
-    "8875699133:AAGJ6PaH7-qHIJVDgySu5iOQnasld1XAbU4"
+    "8875699133:AAE_IwAsaIbjtv5MWvLIXxKp_Y608w2_LKE"
 )
 
 # Sizning Telegram ID'ingiz (@userinfobot orqali oling)
